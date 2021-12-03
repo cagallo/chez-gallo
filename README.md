@@ -1,4 +1,4 @@
-# Chez Gallo 
+# ✨✨ Chez Gallo ✨✨
 
 Welcome to my GitHub! I am a FE Web Development student at the Turing School of Software and Design and I am Denver based. feel free to check out some of my most recent code by clicking on the repositories button above. Thanks for visiting!
 
