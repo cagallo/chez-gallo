@@ -2,6 +2,8 @@
 
 Welcome to my GitHub! I am a UCLA alumna and currently studying FE Web Development at the Turing School of Software and Design. Feel free to check out some of my most recent code by clicking on the repositories button above. Thanks for visiting!
 
+![Screen Shot 2021-12-06 at 12 09 19 PM](https://user-images.githubusercontent.com/78453792/144907214-382f9215-9781-466a-89aa-b12ece952bb0.png)
+
 ## Contact Me:
 
 ## Languages and Frameworks
