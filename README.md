@@ -4,7 +4,9 @@ Welcome to my GitHub! I am a UCLA alumna and currently studying FE Web Developme
 
 ![Screen Shot 2021-12-06 at 12 09 19 PM](https://user-images.githubusercontent.com/78453792/144907214-382f9215-9781-466a-89aa-b12ece952bb0.png)
 
-## Contact Me:
+## Contact Me
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## Languages and Frameworks
 
