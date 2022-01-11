@@ -21,5 +21,8 @@ Welcome to my GitHub! I am a UCLA alumna and currently studying FE Web Developme
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 
+![Chez's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagallo&show_icons=true&theme=radical)
+
+
 
 ![IMG_6392](https://user-images.githubusercontent.com/78453792/144640278-6d477e38-96e1-4e9e-8125-aead4812c023.jpg)
